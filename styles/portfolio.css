@@ -35,9 +35,20 @@ font-size: 45px;
     padding: 18px 35px;
     font-size: 20px;
     border-radius: 5px;
-    background: #FD6E0A ;
-}
+    background: #FD6E0A ;}
 
+
+.contact-button{
+    color: #FD6E0A;
+    background: white;
+    border: 2px solid #FD6E0A;
+    font-weight: 700;
+    font-style: normal;
+    padding: 16px 35px;
+    border-radius: 5px;
+    font-size: 20px;
+}
+   
 /* banner styles */
 .banner{
     margin:50px 100px 50px 200px;
